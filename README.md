@@ -42,4 +42,4 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Luís Henrique](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)](https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)
-[![GitHub Luís Henrique]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/henrique15775)
+[![GitHub Luís Henrique]( https://img.shields.io/github/followers/henrique15775?label=follow&style=social)](https://github.com/henrique15775)
