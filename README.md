@@ -1,16 +1,26 @@
-### Hi there 👋
+👩  Sobre mim
+🤔   Explorando novas tecnologias e desenvolvendo soluções de software.
+🎓   Estudando SEU CURSO no SUA FACULDADE.
+💼   Trabalhando como ÁREA EM QUE VOCÊ TRABALHA na EMPRESA
+🌱   Aprendendo mais sobre TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO.
+🚀  Minhas Skills
+Aplicações e Dados
 
-<!--
-**henrique15775/henrique15775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java JavaScript HTML5 CSS Vue MySQL
 
-Here are some ideas to get you started:
+Utilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Insomnia Postman
+
+DevOps
+
+Git GitHub 
+
+Ferramentas de Desenvolvimento
+
+Visual Studio Code Eclipse
+
+
+
+🌎  Onde me encontrar:
+Linkedin: https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210 GitHub https://github.com/henrique15775
