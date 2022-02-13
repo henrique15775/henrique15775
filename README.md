@@ -4,9 +4,9 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Estudando Sistemas para Internet no <a href="https://www.ifpb.edu.br/joaopessoa">IFPB</a>.
+- 💼 &nbsp; Estagiando como Front-end Developer
+- 🌱 &nbsp; Aprendendo mais sobre Vue.js e Spring.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -41,5 +41,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Luís Henrique](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)](https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)
+[![Linkedin: Luís Henrique](https://img.shields.io/badge/-luís-henrique-433b76210-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)](https://www.linkedin.com/in/lu%C3%ADs-henrique-433b76210)
 [![GitHub Luís Henrique]( https://img.shields.io/github/followers/henrique15775?label=follow&style=social)](https://github.com/henrique15775)
