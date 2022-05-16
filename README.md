@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Sistemas para Internet no <a href="https://www.ifpb.edu.br/joaopessoa">IFPB</a>.
 - 💼 &nbsp; Estagiando como Front-end Developer
-- 🌱 &nbsp; Aprendendo mais sobre Vue.js e Spring.
+- 🌱 &nbsp; Aprendendo mais sobre Vue.js e Flask.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
